@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "41",
+      "firstName": "Enas gamal",
+      "age": 22,
+      "companyId": "1"
+    },
+    {
+      "firstName": "ahmad",
+      "age": 24,
+      "id": "q08z3qL"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "apple",
+      "description": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "google",
+      "description": "search"
+    },
+    {
+      "id": "3",
+      "name": "facebook",
+      "description": "facebook"
+    }
+  ]
+}
